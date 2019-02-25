@@ -6,3 +6,5 @@ print('hello world')
 print (c)
 
 print(b)
+
+print(a)
