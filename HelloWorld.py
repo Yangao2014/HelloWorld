@@ -4,3 +4,5 @@ c = a + b  # type: int
 
 print('hello world')
 print (c)
+
+print(b)
